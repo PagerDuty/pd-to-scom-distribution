@@ -1,3 +1,4 @@
 # PagerDuty to SCOM integration distribution
 
-This is a repository to release SCOM `oip` file of its integration with PagerDuty.
+This repository is referenced by PagerDuty-SCOM integration guide and is used to distribute the pre-built package. Look into [Releases](https://github.com/PagerDuty/pd-to-scom-distribution/releases) section. 
+ 
